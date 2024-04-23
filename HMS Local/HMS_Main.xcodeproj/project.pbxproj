@@ -10,6 +10,7 @@
 		3FDD66F62BD7B4FD00DD055A /* GetAgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66F52BD7B4FD00DD055A /* GetAgeView.swift */; };
 		3FDD66F82BD7B62300DD055A /* GetGenderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66F72BD7B62300DD055A /* GetGenderView.swift */; };
 		3FDD66FA2BD7B67800DD055A /* GetBGView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66F92BD7B67800DD055A /* GetBGView.swift */; };
+		3FDD66FC2BD7BF1000DD055A /* DoctorDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */; };
 		843959192BD7A200000F2156 /* HMS_MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959182BD7A200000F2156 /* HMS_MainApp.swift */; };
 		8439591B2BD7A200000F2156 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439591A2BD7A200000F2156 /* ContentView.swift */; };
 		8439591D2BD7A200000F2156 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8439591C2BD7A200000F2156 /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 		3FDD66F52BD7B4FD00DD055A /* GetAgeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetAgeView.swift; sourceTree = "<group>"; };
 		3FDD66F72BD7B62300DD055A /* GetGenderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetGenderView.swift; sourceTree = "<group>"; };
 		3FDD66F92BD7B67800DD055A /* GetBGView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetBGView.swift; sourceTree = "<group>"; };
+		3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorDetailView.swift; sourceTree = "<group>"; };
 		843959152BD7A200000F2156 /* HMS_Main.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HMS_Main.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		843959182BD7A200000F2156 /* HMS_MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainApp.swift; sourceTree = "<group>"; };
 		8439591A2BD7A200000F2156 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -113,6 +115,7 @@
 				3FDD66F42BD7B4D100DD055A /* Patient Onboarding Screens */,
 				843959182BD7A200000F2156 /* HMS_MainApp.swift */,
 				8439591A2BD7A200000F2156 /* ContentView.swift */,
+				3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */,
 				8439591C2BD7A200000F2156 /* Assets.xcassets */,
 				8439591E2BD7A200000F2156 /* Preview Content */,
 			);
@@ -274,6 +277,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FDD66FC2BD7BF1000DD055A /* DoctorDetailView.swift in Sources */,
 				3FDD66F62BD7B4FD00DD055A /* GetAgeView.swift in Sources */,
 				3FDD66FA2BD7B67800DD055A /* GetBGView.swift in Sources */,
 				8439591B2BD7A200000F2156 /* ContentView.swift in Sources */,
