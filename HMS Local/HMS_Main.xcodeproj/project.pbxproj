@@ -12,6 +12,7 @@
 		3FDD66FA2BD7B67800DD055A /* GetBGView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66F92BD7B67800DD055A /* GetBGView.swift */; };
 		3FDD66FC2BD7BF1000DD055A /* DoctorDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */; };
 		3FDD66FE2BD7C6DF00DD055A /* DashboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66FD2BD7C6DF00DD055A /* DashboardView.swift */; };
+		3FDD67002BD7D38C00DD055A /* ViewDoc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FDD66FF2BD7D38C00DD055A /* ViewDoc.swift */; };
 		843959192BD7A200000F2156 /* HMS_MainApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959182BD7A200000F2156 /* HMS_MainApp.swift */; };
 		8439591B2BD7A200000F2156 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8439591A2BD7A200000F2156 /* ContentView.swift */; };
 		8439591D2BD7A200000F2156 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8439591C2BD7A200000F2156 /* Assets.xcassets */; };
@@ -44,6 +45,7 @@
 		3FDD66F92BD7B67800DD055A /* GetBGView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetBGView.swift; sourceTree = "<group>"; };
 		3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorDetailView.swift; sourceTree = "<group>"; };
 		3FDD66FD2BD7C6DF00DD055A /* DashboardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DashboardView.swift; sourceTree = "<group>"; };
+		3FDD66FF2BD7D38C00DD055A /* ViewDoc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDoc.swift; sourceTree = "<group>"; };
 		843959152BD7A200000F2156 /* HMS_Main.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HMS_Main.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		843959182BD7A200000F2156 /* HMS_MainApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainApp.swift; sourceTree = "<group>"; };
 		8439591A2BD7A200000F2156 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -119,6 +121,7 @@
 				8439591A2BD7A200000F2156 /* ContentView.swift */,
 				3FDD66FD2BD7C6DF00DD055A /* DashboardView.swift */,
 				3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */,
+				3FDD66FF2BD7D38C00DD055A /* ViewDoc.swift */,
 				8439591C2BD7A200000F2156 /* Assets.xcassets */,
 				8439591E2BD7A200000F2156 /* Preview Content */,
 			);
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FDD66FC2BD7BF1000DD055A /* DoctorDetailView.swift in Sources */,
+				3FDD67002BD7D38C00DD055A /* ViewDoc.swift in Sources */,
 				3FDD66F62BD7B4FD00DD055A /* GetAgeView.swift in Sources */,
 				3FDD66FA2BD7B67800DD055A /* GetBGView.swift in Sources */,
 				3FDD66FE2BD7C6DF00DD055A /* DashboardView.swift in Sources */,
