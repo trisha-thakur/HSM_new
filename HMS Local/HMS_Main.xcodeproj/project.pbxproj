@@ -21,6 +21,7 @@
 		843959342BD7A201000F2156 /* HMS_MainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959332BD7A201000F2156 /* HMS_MainUITests.swift */; };
 		843959362BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959352BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift */; };
 		84BB35AB2BD8D7650061BE6D /* AppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */; };
+		84BB35AD2BD8E0620061BE6D /* DocProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BB35AC2BD8E0620061BE6D /* DocProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,6 +59,7 @@
 		843959332BD7A201000F2156 /* HMS_MainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainUITests.swift; sourceTree = "<group>"; };
 		843959352BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentView.swift; sourceTree = "<group>"; };
+		84BB35AC2BD8E0620061BE6D /* DocProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DocProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				843959182BD7A200000F2156 /* HMS_MainApp.swift */,
 				8439591A2BD7A200000F2156 /* ContentView.swift */,
 				3FDD66FD2BD7C6DF00DD055A /* DashboardView.swift */,
+				84BB35AC2BD8E0620061BE6D /* DocProfileView.swift */,
 				3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */,
 				3FDD66FF2BD7D38C00DD055A /* ViewDoc.swift */,
 				84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */,
@@ -295,6 +298,7 @@
 				8439591B2BD7A200000F2156 /* ContentView.swift in Sources */,
 				3FDD66F82BD7B62300DD055A /* GetGenderView.swift in Sources */,
 				843959192BD7A200000F2156 /* HMS_MainApp.swift in Sources */,
+				84BB35AD2BD8E0620061BE6D /* DocProfileView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
