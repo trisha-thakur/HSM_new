@@ -20,6 +20,7 @@
 		8439592A2BD7A201000F2156 /* HMS_MainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959292BD7A201000F2156 /* HMS_MainTests.swift */; };
 		843959342BD7A201000F2156 /* HMS_MainUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959332BD7A201000F2156 /* HMS_MainUITests.swift */; };
 		843959362BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 843959352BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift */; };
+		84BB35AB2BD8D7650061BE6D /* AppointmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +57,7 @@
 		8439592F2BD7A201000F2156 /* HMS_MainUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HMS_MainUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		843959332BD7A201000F2156 /* HMS_MainUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainUITests.swift; sourceTree = "<group>"; };
 		843959352BD7A201000F2156 /* HMS_MainUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HMS_MainUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppointmentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				3FDD66FD2BD7C6DF00DD055A /* DashboardView.swift */,
 				3FDD66FB2BD7BF1000DD055A /* DoctorDetailView.swift */,
 				3FDD66FF2BD7D38C00DD055A /* ViewDoc.swift */,
+				84BB35AA2BD8D7650061BE6D /* AppointmentView.swift */,
 				8439591C2BD7A200000F2156 /* Assets.xcassets */,
 				8439591E2BD7A200000F2156 /* Preview Content */,
 			);
@@ -284,6 +287,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FDD66FC2BD7BF1000DD055A /* DoctorDetailView.swift in Sources */,
+				84BB35AB2BD8D7650061BE6D /* AppointmentView.swift in Sources */,
 				3FDD67002BD7D38C00DD055A /* ViewDoc.swift in Sources */,
 				3FDD66F62BD7B4FD00DD055A /* GetAgeView.swift in Sources */,
 				3FDD66FA2BD7B67800DD055A /* GetBGView.swift in Sources */,

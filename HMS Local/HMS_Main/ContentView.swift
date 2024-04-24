@@ -31,13 +31,6 @@ struct ContentView: View {
     }
 }
 
-struct AppointmentView: View {
-    var body: some View {
-        VStack {
-            Text("Appointments")
-        }
-    }
-}
 
 struct ProfileView: View {
     var body: some View {
