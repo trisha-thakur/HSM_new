@@ -54,7 +54,8 @@ struct DashboardView: View {
                                 .font(.headline)
                                 .foregroundColor(.white)
                                 .padding(.bottom)
-                            Button(action: {}) {
+             
+                            NavigationLink(destination: AppointmentView()) {
                                 Text("Book Your Appointment")
                                     .font(.headline)
                                     .foregroundColor(.white)
@@ -62,7 +63,8 @@ struct DashboardView: View {
                                     .background(Color.blue)
                                     .cornerRadius(10)
                             }
-                            .padding(.bottom)
+                                
+                            
                         }
                         .foregroundColor(.clear)
                         .frame(width: 398, height: 300)
