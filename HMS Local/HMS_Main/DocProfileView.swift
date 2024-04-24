@@ -21,7 +21,7 @@ struct DocProfileView: View {
                     .edgesIgnoringSafeArea(.all)
                     .frame(height: 200)
                     .edgesIgnoringSafeArea(.top)
-                    .offset(y: -250)
+                    .offset(y: -350)
                 
                 VStack {
                     Spacer()
@@ -31,7 +31,7 @@ struct DocProfileView: View {
                         .scaledToFill()
                         .frame(width: 120, height: 120)
                         .clipShape(Circle())
-                        .offset(x: -120, y: -470)
+                        .offset(x: -120, y: -570)
                 }
                 
                 VStack(alignment: .leading) {
@@ -45,7 +45,7 @@ struct DocProfileView: View {
                 }
                 .frame(width: 300, height: 300)
                 .padding(.leading, -90)
-                .padding(.top, -50)
+                .padding(.top, -250)
                 
                 Spacer()
                 
